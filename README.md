@@ -1,2 +1,2 @@
-A responsive portfolio created as a 1st project 🧠💼
+A responsive portfolio created as a 1st project 🧠
 
